@@ -105,5 +105,10 @@ This document provides an analysis of pizza sales data, focusing on order trends
 - Tracking cumulative revenue helps in understanding overall sales trends and business growth.
 
 **Conclusion**
-- This analysis provides valuable insights that can help with menu optimization, pricing strategies, inventory management, and marketing efforts to maximize revenue and customer satisfaction.
+- This analysis uncovered key trends in sales, highlighting the impact of seasonality, promotions, and regional variations. It shows how data can optimize marketing strategies and drive business decisions.
+  
+## **Contact**
+- Feel free for any feedback and suggestions 
 
+- [Harshdev Parmar](www.linkedin.com/in/harshdevparmar)
+- Email: harsh.parmar03@gmail.com
